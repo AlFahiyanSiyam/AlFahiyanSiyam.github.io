@@ -19,12 +19,16 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
   > Step 1.1: To create a repository to [click here](https://github.com/new)
   
   > Step 1.2: Name your repository as username.github.io
+       ![](/images/Step-1/1.2.png)
   
   > Step 1.3: Set the privacy to Public
-  
+        ![](/images/Step-1/1.3.png)
+       
   > Step 1.4: Find **Initialize this repository with:** and select **Add a README file**
-  
-  > Step 1.5: From the bottom page click on **Create repository**
+       ![](/images/Step-1/1.4.png)
+       
+  > Step 1.5: From the bottom page click on **Create repository** to create your GitHub repository 
+       ![](/images/Step-1/1.5.png)
      
  
 ### Step 2: Setting up a copy of GitHub repository on personal computer
