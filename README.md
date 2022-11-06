@@ -1,6 +1,3 @@
-# AlFahiyanSiyam.github.io
-
-
 
 ## Purpoase
 
