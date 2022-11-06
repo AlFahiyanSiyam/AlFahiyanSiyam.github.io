@@ -18,7 +18,7 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 ### Step 1: Create GitHub Pages repository
   > Step 1.1: To create a repository to [click here](https://github.com/new)
   
-  > Step 1.2: Name your repository as username.github.io
+  > Step 1.2: Name your repository as username.github.io (replace username with you GitHub username)
        ![](/images/Step-1/1.2.png)
   
   > Step 1.3: Set the privacy to Public
