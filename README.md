@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A step by step by tutorial to host a resume on the GitHub page. Jekyll static website generator and Markdown will be used for the process. This tutorial will follow the principles has been discussed in Andrew Etter's book Modern Technical Writing.
+A step by step by tutorial to host a resume on the [GitHub](https://github.com/) page. [Jekyll](https://jekyllrb.com/) static website generator and [Markdown](https://en.wikipedia.org/wiki/Markdown) will be used for the process. This tutorial will follow the principles has been discussed in [Andrew Etter's Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) book.
 
 
 
@@ -16,8 +16,9 @@ A step by step by tutorial to host a resume on the GitHub page. Jekyll static we
 ## Instructions
 
 ### Step 1: Create GitHub Pages repository
-
-
+1.1: To create a repository to [click here](https://github.com/new)
+     
+ 
 ### Step 2: Setting up a copy of GitHub repository on personal computer
 
 
