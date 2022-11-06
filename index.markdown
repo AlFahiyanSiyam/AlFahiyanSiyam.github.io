@@ -1,9 +1,9 @@
----
-# Feel free to add content and custom Front Matter to this file.
+# AL FAHIYAN SIYAM
+| Email        | Contact number | LinedIn     |
+|   :----:     |    :----:   |      :----:  |
+| AF.SIYAM@GMAIL.COM      | +1 431-336-7406       | AL-FAHIYAN-SIYAM   |
 
 
-layout: "page"
----
 ### **EDUCATION:**
 #### **Bachelor of Science - the University of Manitoba, Winnipeg (January 2019 - Present).**
 	* Computer Science – Honors (Fourth year in the program).
