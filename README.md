@@ -9,7 +9,7 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 ## Prerequisites
   1. A resume formatted in MarkDown (A Markup language)
   2. GitHub account ( [Login](https://github.com/login) / [Signup](https://github.com/signup) from here!)
-  3. [GitHub desktop application](https://github.com/login)
+  3. [GitHub desktop application](https://desktop.github.com/)
   4. Installing [Jekyll](https://jekyllrb.com/)
   5. Markdown Editor (Ex. [Visual Studio Code](https://code.visualstudio.com/download))
 
@@ -32,6 +32,9 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
      
  
 ### Step 2: Setting up a copy of GitHub repository on personal computer
+  > Step 2.1: Download the [GitHub desktop application](https://desktop.github.com/)
+  
+  > Step 2.2: 
 
 
 ### Step 3: Installing Jekyll
