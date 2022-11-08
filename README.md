@@ -32,13 +32,9 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
      
  
 ### Step 2: Setting up a copy of GitHub repository on personal computer
-  > Step 2.1: [Click here](https://www.youtube.com/watch?v=8yqQeTbFZUg) to learn how we clone GitHub repository on personal computer
+  > Step 2.1:  [Download link for GitHub desktop application](https://desktop.github.com/).
+  > Step 2.2: [Click here](https://www.youtube.com/watch?v=8yqQeTbFZUg) to learn how we clone GitHub repository on personal computer
   
-  
-  > [Download link for GitHub desktop application](https://desktop.github.com/).
-  
-
-
 
 ### Step 3: Installing Jekyll on Personal Computer 
 
@@ -46,6 +42,16 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
   
 ### Step 4: Creating Jekyll project 
   > Step 4.1: Go to the directory of GitHub repository has been created
+  > ![](/images/Step-4/4.1.png)
+  
+  > Step 4.2: Click on the directory path
+  > ![](/images/Step-4/4.2.png)
+  
+  > Step 4.3: Write **cmd** and press **Enter** to open the **Command Prompt**
+  > ![](/images/Step-4/4.3.png) 
+  
+  > Step 4.4: Write **jekyll new . --force** in the **Command Prompt** to install Jekyll   
+  > ![](/images/Step-4/4.3.png) 
   
 
 ### Step 4: Using Visual Studio Code to edit MarkDown
