@@ -56,8 +56,20 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
   > ![](/images/Step-4/4.5.png) 
   
 
-### Step 4: Using Visual Studio Code to edit MarkDown
-  
+### Step 5: Using Visual Studio Code to edit MarkDown
+
+> Step 5.1: Continue from the Step 4.1 or open the **Command Prompt** from the file directory again
+
+> Step 5.2: To open the Visual Studio Code,  Write **code .** and press enter
+> ![](/images/Step-5/5.1.png) 
+
+
+> Step 5.3: Select the desired MarkDown file to edit 
+> ![](/images/Step-5/5.2.png) 
+> ![](/images/Step-5/5.3.png) 
+
+
+
 
 
 
