@@ -2,7 +2,6 @@
 layout: home
 ---
 
-# AL FAHIYAN SIYAM
 
 | Email | Contact number | LinedIn |
 | --- | ----------- |
