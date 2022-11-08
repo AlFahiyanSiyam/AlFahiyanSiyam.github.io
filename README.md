@@ -66,6 +66,8 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 
 > Step 5.3: Select the desired MarkDown file to edit 
 > ![](/images/Step-5/5.2.png) 
+
+
 > ![](/images/Step-5/5.3.png) 
 
 
