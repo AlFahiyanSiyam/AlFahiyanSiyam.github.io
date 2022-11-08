@@ -3,9 +3,10 @@ layout: home
 ---
 
 # AL FAHIYAN SIYAM
-| Email        | Contact number | LinedIn     |
-|   :----:     |    :----:   	|   :----:    |
-| AF.SIYAM@GMAIL.COM      | +1 431-336-7406       | AL-FAHIYAN-SIYAM   |
+
+| Email | Contact number | LinedIn |
+| :---: | :-----------: | :---: |
+| AF.SIYAM@GMAIL.COM | +1 431-336-7406 |  AL-FAHIYAN-SIYAM  | 
 
 
 ### **EDUCATION:**
