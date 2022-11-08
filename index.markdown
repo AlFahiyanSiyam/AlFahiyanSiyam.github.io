@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # AL FAHIYAN SIYAM
 | Email        | Contact number | LinedIn     |
 |   :----:     |    :----:   |      :----:  |
