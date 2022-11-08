@@ -21,7 +21,8 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
   > Step 1.2: Name your repository as username.github.io (replace username with you GitHub username)
   > ![](/images/Step-1/1.2.png)
   
-  > Step 1.3: Set the privacy to Public
+  > Step 1.3: Set the privacy to Public 
+  > 
   > ![](/images/Step-1/1.3.png)
        
   > Step 1.4: Find **Initialize this repository with:** and select **Add a README file**
@@ -33,6 +34,7 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
  
 ### Step 2: Setting up a copy of GitHub repository on personal computer
   > Step 2.1:  [Download link for GitHub desktop application](https://desktop.github.com/).
+  
   > Step 2.2: [Click here](https://www.youtube.com/watch?v=8yqQeTbFZUg) to learn how we clone GitHub repository on personal computer
   
 
@@ -51,7 +53,7 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
   > ![](/images/Step-4/4.3.png) 
   
   > Step 4.4: Write **jekyll new . --force** in the **Command Prompt** to install Jekyll   
-  > ![](/images/Step-4/4.3.png) 
+  > ![](/images/Step-4/4.5.png) 
   
 
 ### Step 4: Using Visual Studio Code to edit MarkDown
