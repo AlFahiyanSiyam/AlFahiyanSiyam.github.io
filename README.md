@@ -4,7 +4,8 @@
 
 A step by step by tutorial to host a resume on the [GitHub](https://github.com/) page. [Jekyll](https://jekyllrb.com/) static website generator and [Markdown](https://en.wikipedia.org/wiki/Markdown) will be used for the process. This tutorial will follow the principles has been discussed in [Andrew Etter's Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) book.
 
-[sample Resume](https://alfahiyansiyam.github.io/)!
+[Sample resume static website](https://alfahiyansiyam.github.io/)!
+![](/images/resume.gif)
 
 ## Prerequisites
   1. A resume formatted in MarkDown (A Markup language)
