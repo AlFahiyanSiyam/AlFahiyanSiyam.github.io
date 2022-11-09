@@ -123,7 +123,7 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 ## Authors and Acknowledgements
 
 - This tutorial followed the principals discussed in Andrew Etter's book, *Modern Technical Writing* 
-- Peer reviewed by
+- Peer reviewed by:
   - [Felix Wedel](https://github.com/WedelFelix)
   - [Gurman Toor](https://github.com/GurmanToor)
   - [Nurida Karimbaeva](https://github.com/nuridak)
