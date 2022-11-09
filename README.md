@@ -76,9 +76,9 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 
 
 
-
-
 ### Step 6: Adding resume in the local GitHub repository
+-During this part of the tutorial, we will be using MarkDown to edit our resume. MarkDown is a markup language that can be used for editing plain text with a majority of the formatting option. For example, headings, tables, bullets, and sorted and unsorted lists. According to *Andrew Etter's* MarkDown is one of the most used lightweight markup languages. Due to having simple syntax, it is easier to understand and work with MarkDown. MarkDown offers the cleanest syntax as it has no clutter compared to regularly used markup language like HTML.
+
 > Step 6.1: Open the repository from the file exploer
 
 > Step 6.2: Open the resume styled with MarkDown
