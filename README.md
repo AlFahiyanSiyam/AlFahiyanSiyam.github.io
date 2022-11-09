@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A step by step by tutorial to host a resume on the [GitHub](https://github.com/) page. [Jekyll](https://jekyllrb.com/) static website generator and [Markdown](https://en.wikipedia.org/wiki/Markdown) will be used for the process. This tutorial will follow the principles has been discussed in [Andrew Etter's Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) book.
+A step by step by tutorial to host a resume on the [GitHub](https://github.com/) page. This tutorial will follow the principles has been discussed in [Andrew Etter's Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) book. [Jekyll](https://jekyllrb.com/) static website generator and [Markdown](https://en.wikipedia.org/wiki/Markdown) will be used for the process.
 
 [Sample static website for resume](https://alfahiyansiyam.github.io/)!
 ![](/images/resume.gif)
@@ -15,6 +15,8 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
   5. Markdown Editor (Ex. [Visual Studio Code](https://code.visualstudio.com/download))
 
 ## Instructions
+- In the book *Andrew Etter's* suggest using a **Distributed Version Control** to track the workflow, make it accessible to others and let others contribute. To follow *Andrew Etter's* **Distributed Version Control** principle we will use GitHub. We can create repository to work on individual projects. It will also allow us to work on our local machine staying offline, we can send our committed work to the main repository anytime we want. While working in a group we can wait for others to revise the current committed work before we merge the work with the repository. Over a period of time, if we realize we have done something terrible and we need some or all of the content from any older version we can also retrieve that work.
+
 
 ### Step 1: Create GitHub Pages repository
   > Step 1.1: To create a repository to [click here](https://github.com/new)
@@ -129,7 +131,7 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 
 ### Why is Markdown better than a word processor?
 
-Markdown is designed in a most simplistic way than word processors. According to Etter, it is the most widely used lightweight markup language in the world and has cleaned syntax. For a word processor, the learning curve is quite higher while MarkDown has a limited set of features and defined syntax. In consequence, it takes less time to learn the syntax. However, the file of a MarkDown file is quite less than a regular word processor file. Therefore, it takes less space. Moreover, MarkDown can be widely used in websites, presentations, regular and technical documentation.
+Markdown is designed in a most simplistic way than word processors. According to Etter, *it is the most widely used lightweight markup language in the world and has cleaned syntax. For a word processor, the learning curve is quite higher while MarkDown has a limited set of features and defined syntax*. In consequence, it takes less time to learn the syntax. However, the file of a MarkDown file is quite less than a regular word processor file. Therefore, it takes less space. Moreover, MarkDown can be widely used in websites, presentations, regular and technical documentation.
 
 ### What other than Visual Studio Code MarkDown editor is available?
 - **For personal computer**
