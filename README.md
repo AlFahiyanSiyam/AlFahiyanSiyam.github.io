@@ -107,10 +107,21 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 
 > Step 2: Write **"bundle exec jekyll serve"** and press Enter
 
-> Step 3: Open **"http://localhost:4000/"** or **"http://127.0.0.1:4000"** to view the static generator site
+> Step 3: On your browser, open **"http://localhost:4000/"** or **"http://127.0.0.1:4000"** to view the static generator site
+
+### [Click here](https://www.markdowntutorial.com/lesson/1/) to learn how to write in MarkDown.
+
+### [Click here](https://dillinger.io/) to visit a online MarkDown Editor
+
+### A [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for MarkDown
 
 
 ## Authors and Acknowledgements
 
+- This tutorial followed the principals discussed in Andrew Etter's book, *Modern Technical Writing* 
+- Peer reviewed by
+  - [Felix Wedel](https://github.com/WedelFelix)
+  - [Gurman Toor](https://github.com/GurmanToor)
+  - [Nurida Karimbaeva](https://github.com/nuridak)
 
 ## FAQs
