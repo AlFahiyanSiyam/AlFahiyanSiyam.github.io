@@ -134,7 +134,7 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 
 Markdown is designed in a most simplistic way than word processors. According to Etter, *it is the most widely used lightweight markup language in the world and has cleaned syntax. For a word processor, the learning curve is quite higher while MarkDown has a limited set of features and defined syntax*. In consequence, it takes less time to learn the syntax. However, the file of a MarkDown file is quite less than a regular word processor file. Therefore, it takes less space. Moreover, MarkDown can be widely used in websites, presentations, regular and technical documentation.
 
-### What other than Visual Studio Code MarkDown editor is available?
+### Apart from Visual Studio Code what other MarkDown editor is available?
 - **For personal computer**
   * Windows:
     - [Typora](https://typora.io/#windows)
