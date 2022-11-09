@@ -29,13 +29,10 @@ layout: page
 	  run and the ability of the operator. Based on the performance of the system 
 	  and operator, trained the persons to get the best benefit out of the database 
 	  and helped them to operate independently.
-	* After service consultation was also a part of the job both by telephone and 
-	  in person.
 	* Analyzed collection of feedback on software bugs and problems, reported to the 
 	  development team and ultimately redistribute the updates to customers for 
 	  comprehensive development of the system. 
-	* Contributed to bring the company new leads for software requirements from our 
-	  clients and market, which eventually boosted profit margin.
+	
 
 ### **Technical Skills:**
 	* Languages: Java, C, C++, JavaScript, Assembly Language (LC3).
