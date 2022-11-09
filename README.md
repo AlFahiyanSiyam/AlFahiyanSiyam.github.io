@@ -85,7 +85,10 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 
 
 ### Step 7: Updating the static generator site on GitHub
-After making any changes open the GitHub desktop from your computer.
+
+>Step 7.1: After making any changes open the GitHub desktop from your computer.
+
+> Step 7.2: 
 
  
 
