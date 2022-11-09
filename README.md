@@ -15,7 +15,7 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
   5. Markdown Editor (Ex. [Visual Studio Code](https://code.visualstudio.com/download))
 
 ## Instructions
-- In the book *Andrew Etter's* suggest using a **Distributed Version Control** to track the workflow, make it accessible to others and let others contribute. To follow *Andrew Etter's* **Distributed Version Control** principle we will use GitHub. We can create repository to work on individual projects. It will also allow us to work on our local machine staying offline, we can send our committed work to the main repository anytime we want. While working in a group we can wait for others to revise the current committed work before we merge the work with the repository. Over a period of time, if we realize we have done something terrible and we need some or all of the content from any older version we can also retrieve that work.
+- In the book *Andrew Etter's* suggest using a **Distributed Version Control** to track the workflow, make it accessible to others and let others contribute. To follow *Andrew Etter's* **Distributed Version Control** principle we will use GitHub. We can create repository to work on individual projects. It will also allow us to work on our local machine staying offline, we can send our committed work to the main repository anytime we want. While working in a group we can wait for others to revise the current committed work before we merge the work with the repository. Over a period of time, if we realize we have done something terrible and we need some or all of the content from any older version we can also retrieve that work. 
 
 
 ### Step 1: Create GitHub Pages repository
@@ -42,6 +42,7 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
   
 
 ### Step 3: Installing Jekyll on Personal Computer 
+- Jekyll is one of the tools that allow us to create a static generator site more efficiently and effectively. *Andrew Etter's* suggests using a static generator whenever it is possible. According to *Andrew Etter's*   a static generator site like Jekyll, **"have no server-side dependencies, no databases"**. Due to that, it can be hosted pretty much everywhere and can be used as a portable website. Moreover, it is much faster than dynamic websites and it provides better data safety.
 
   > Step 3.1: [Click here](https://www.youtube.com/watch?v=_mUmZg5qg9E) to learn how to install Jekyll
   
