@@ -41,7 +41,7 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 
 ### Step 3: Installing Jekyll on Personal Computer 
 
-  > Step 3.1: [Click here](https://www.youtube.com/watch?v=_mUmZg5qg9E) to learn how we install Jekyll
+  > Step 3.1: [Click here](https://www.youtube.com/watch?v=_mUmZg5qg9E) to learn how to install Jekyll
   
 ### Step 4: Creating Jekyll project 
   > Step 4.1: Go to the directory of GitHub repository has been created
@@ -50,10 +50,10 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
   > Step 4.2: Click on the directory path
   > ![](/images/Step-4/4.2.png)
   
-  > Step 4.3: Write **cmd** and press **Enter** to open the **Command Prompt**
+  > Step 4.3: Write **"cmd"** and press **Enter** to open the **Command Prompt**
   > ![](/images/Step-4/4.3.png) 
   
-  > Step 4.4: Write **jekyll new . --force** in the **Command Prompt** to install Jekyll   
+  > Step 4.4: Write **"jekyll new . --force"** in the **Command Prompt** to install Jekyll   
   > ![](/images/Step-4/4.5.png) 
   
 
@@ -61,7 +61,7 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 
 > Step 5.1: Continue from the Step 4.1 or open the **Command Prompt** from the file directory again
 
-> Step 5.2: To open the Visual Studio Code,  Write **code .** and press enter
+> Step 5.2: To open the Visual Studio Code,  Write **"code ."** and press enter
 > ![](/images/Step-5/5.1.png) 
 
 
