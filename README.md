@@ -75,21 +75,32 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 
 
 
-### Step 5: Adding resume in the local GitHub repository
+### Step 6: Adding resume in the local GitHub repository
+> Step 6.1: Open the repository from the file exploer
+
+> Step 6.2: Open the resume styled with MarkDown
+
+> Step 6.3: Copy and past the content to the **"index.md"** or **"index.markdown"**
 
 
-### Step 6: Modifying the configuration for the static generator site
 
+### Step 7: Updating the static generator site on GitHub
+After making any changes open the GitHub desktop from your computer.
 
-### Step 7: Run the static generator site on personal computer
-
-### Step 8: Updating the static generator site on GitHub
-
+ 
 
 
 
 
 ## More Resources
+
+### Run the static generator site on personal computer
+> Step 1: Open the **Command Prompt** from repository file directory
+
+> Step 2: Write **"bundle exec jekyll serve"** and press Enter
+
+> Step 3: Open **"http://localhost:4000/"** or **"http://127.0.0.1:4000"** to view the static generator site
+
 
 ## Authors and Acknowledgements
 
