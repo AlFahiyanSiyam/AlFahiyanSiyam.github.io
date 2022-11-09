@@ -106,12 +106,9 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 
 ## More Resources
 
-### Run the static generator site on personal computer
-> Step 1: Open the **Command Prompt** from repository file directory
+### *Andrew Etter's* [Modern Technical Writing: An Introduction to Software Documentation](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
-> Step 2: Write **"bundle exec jekyll serve"** and press Enter
 
-> Step 3: On your browser, open **"http://localhost:4000/"** or **"http://127.0.0.1:4000"** to view the static generator site
 
 ### [Click here](https://www.markdowntutorial.com/lesson/1/) to learn how to write in MarkDown.
 
@@ -119,6 +116,12 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 
 ### A [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for MarkDown
 
+### Run the static generator site on personal computer
+> Step 1: Open the **Command Prompt** from repository file directory
+
+> Step 2: Write **"bundle exec jekyll serve"** and press Enter
+
+> Step 3: On your browser, open **"http://localhost:4000/"** or **"http://127.0.0.1:4000"** to view the static generator site
 
 ## Authors and Acknowledgements
 
