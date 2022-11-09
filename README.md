@@ -72,6 +72,7 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 > ![](/images/Step-5/5.2.png) 
 
 
+> Step 5.3: Start Editing selected file
 > ![](/images/Step-5/5.3.png) 
 
 
