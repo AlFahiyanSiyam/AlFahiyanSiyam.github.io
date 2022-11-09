@@ -88,7 +88,11 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 
 >Step 7.1: After making any changes open the GitHub desktop from your computer.
 
-> Step 7.2: 
+> Step 7.2: Provide all necessary information about the update and click **"Commit to main"**
+> ![](/images/Step-7/7.1.png) 
+
+> Step 7.3: Now by clicking **"Push origin"** we can update the GitHub repository
+> ![](/images/Step-7/7.2.png) 
 
  
 
