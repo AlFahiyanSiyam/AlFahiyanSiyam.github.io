@@ -44,7 +44,8 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 ### Step 3: Installing Jekyll on Personal Computer 
 - Jekyll is one of the tools that allow us to create a static generator site more efficiently and effectively. *Andrew Etter's* suggests using a static generator whenever it is possible. According to *Andrew Etter's*   a static generator site like Jekyll, **"have no server-side dependencies, no databases"**. Due to that, it can be hosted pretty much everywhere and can be used as a portable website. Moreover, it is much faster than dynamic websites and it provides better data safety.
 
-  > Step 3.1: [Click here](https://www.youtube.com/watch?v=_mUmZg5qg9E) to learn how to install Jekyll
+  > Step 3.1: 
+  > [Click here](https://www.youtube.com/watch?v=_mUmZg5qg9E) to learn how to install Jekyll
   
 ### Step 4: Creating Jekyll project 
   > Step 4.1: Go to the directory of GitHub repository has been created
@@ -137,6 +138,10 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 ### Why is Markdown better than a word processor?
 
 Markdown is designed in a most simplistic way than word processors. According to Etter, *it is the most widely used lightweight markup language in the world and has cleaned syntax. For a word processor, the learning curve is quite higher while MarkDown has a limited set of features and defined syntax*. In consequence, it takes less time to learn the syntax. However, the file of a MarkDown file is quite less than a regular word processor file. Therefore, it takes less space. Moreover, MarkDown can be widely used in websites, presentations, regular and technical documentation.
+
+### How do we get to the hosted resume?
+Visit: https://username.github.io/. We must have to change the **"username"** with our own GitHub username. 
+
 
 ### Apart from Visual Studio Code what other MarkDown editor is available?
 - **For personal computer**
