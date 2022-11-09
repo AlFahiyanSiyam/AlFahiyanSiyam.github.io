@@ -125,3 +125,6 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
   - [Nurida Karimbaeva](https://github.com/nuridak)
 
 ## FAQs
+
+### Why is Markdown better than a word processor?
+
