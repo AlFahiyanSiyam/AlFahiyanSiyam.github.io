@@ -44,8 +44,9 @@ A step by step by tutorial to host a resume on the [GitHub](https://github.com/)
 ### Step 3: Installing Jekyll on Personal Computer 
 - Jekyll is one of the tools that allow us to create a static generator site more efficiently and effectively. *Andrew Etter's* suggests using a static generator whenever it is possible. According to *Andrew Etter's*   a static generator site like Jekyll, **"have no server-side dependencies, no databases"**. Due to that, it can be hosted pretty much everywhere and can be used as a portable website. Moreover, it is much faster than dynamic websites and it provides better data safety.
 
-  > Step 3.1: 
-  > [Click here](https://www.youtube.com/watch?v=_mUmZg5qg9E) to learn how to install Jekyll
+  > Step 3.1: Open command prompt
+  > Step 3.2: Type "gem install jekyll bundler" and press enter.
+  - [Click here](https://www.youtube.com/watch?v=_mUmZg5qg9E) to learn more about installing Jekyll
   
 ### Step 4: Creating Jekyll project 
   > Step 4.1: Go to the directory of GitHub repository has been created
